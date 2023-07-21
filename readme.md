@@ -19,4 +19,3 @@ Compilation : make
 -----------
 
 Running : ./main
--------
